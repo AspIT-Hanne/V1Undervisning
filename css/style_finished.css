@@ -45,7 +45,7 @@ footer
 header a, footer a
 {
     color: whitesmoke;
-    padding: 0 20px;
+    /* padding: 0 20px; */
     text-decoration: none;
     display: inline-block;
 }
